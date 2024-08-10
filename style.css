@@ -568,6 +568,9 @@ footer .install img {
     background: #aab80943;
 }
 
+h4{
+    color:#000;
+}
 @media (max-width:799px) {
     .section-p1 {
         padding: 40px 40px;
